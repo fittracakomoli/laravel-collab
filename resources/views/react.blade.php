@@ -8,6 +8,7 @@
     @vite('resources/js/app.jsx')
 </head>
 <body>
+    <a href="{{ url('/') }}">Kembali</a>
     <div id="root"></div>
 </body>
 </html>

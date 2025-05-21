@@ -68,6 +68,8 @@
 </head>
 <body>
     <div class="container">
+        <a href="{{ url('/') }}">Kembali</a>
+
         <h1>Apa yang bisa saya bantu? Llama Chatbot.</h1>
 
         <div class="search-box">
